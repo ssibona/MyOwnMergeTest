@@ -14,4 +14,7 @@ function figo() {
     this.route('fastpath-settings');
     this.route('secure-settings');
   });
+
+  this.route('fastpath-settings');
+    this.route('secure-settings');
 }
